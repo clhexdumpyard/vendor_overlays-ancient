@@ -14,7 +14,10 @@ PRODUCT_PACKAGES += \
     AccentColorSluttyPinkOverlay \
     AccentColorTealOverlay \
     AccentColorVioletOverlay \
-    AccentColorYellowOverlay
+    AccentColorYellowOverlay \
+    AccentColorDeepOrangeOverlay \
+    AccentColorOrangeOverlay \
+    AccentColorPaleRedOverlay 
 
 # fonts
 PRODUCT_PACKAGES += \
