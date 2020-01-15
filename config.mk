@@ -21,7 +21,8 @@ PRODUCT_PACKAGES += \
     AccentColorElegantGreenOverlay \
     AccentColorExtendedGreenOverlay \
     AccentColorLightGreenOverlay \
-    AccentColorCandyRedOverlay
+    AccentColorCandyRedOverlay \
+    AccentColorGoldenYellow
 
 # fonts
 PRODUCT_PACKAGES += \
