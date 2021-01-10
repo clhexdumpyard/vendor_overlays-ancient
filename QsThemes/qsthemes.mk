@@ -12,4 +12,9 @@ PRODUCT_PACKAGES += \
     QStileSquaremedo \
     QStileInkDrop \
     QStileCookie \
-    QStileCircleOutline
+    QStileCircleOutline \
+    QStileCosmos \
+    QStileDividedCircle \
+    QStileNeonLight \
+    QStileOxygen \
+    QStileTriangles
