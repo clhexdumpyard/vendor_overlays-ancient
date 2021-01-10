@@ -11,4 +11,6 @@ PRODUCT_PACKAGES += \
     DarkGreySystemOverlay \
     DarkGreySystemUIOverlay \
     MaterialOceanSystemOverlay \
-    MaterialOceanSystemUIOverlay
+    MaterialOceanSystemUIOverlay \
+    AncientClearSystemOverlay \
+    AncientClearSystemUIOverlay
