@@ -7,4 +7,6 @@ PRODUCT_PACKAGES += \
     ChocoXSystemOverlay \
     ChocoXSystemUIOverlay \
     PitchBlackSystemOverlay \
-    PitchBlackSystemUIOverlay
+    PitchBlackSystemUIOverlay \
+    DarkGreySystemOverlay \
+    DarkGreySystemUIOverlay
