@@ -1,3 +1,6 @@
+# Include QsThemes files
+include vendor/overlays/QsThemes/qsthemes.mk
+
 # fonts
 PRODUCT_PACKAGES += \
     FontAppleMintOverlay \
