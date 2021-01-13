@@ -6,4 +6,5 @@ PRODUCT_PACKAGES += \
     Retro \
     Narrow \
     MD2 \
-    Telegram
+    Telegram \
+    Stockish
