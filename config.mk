@@ -38,3 +38,12 @@ PRODUCT_PACKAGES += \
     SbHeight35 \
     SbHeight50 \
     SbHeightDefault
+
+# Overlay prebuilt
+PRODUCT_PACKAGES += \
+    NavbarDefault \
+    NavbarAnci1 \
+    NavbarAnci2 \
+    NavbarAnci3 \
+    NavbarAnci4 \
+    NavbarAnci5
