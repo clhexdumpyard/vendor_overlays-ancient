@@ -22,3 +22,19 @@ PRODUCT_PACKAGES += \
     FontSanFransiscoOverlay \
     FontSlateProOverlay \
     FontZillaSlabOverlay
+
+# Overlay app
+PRODUCT_PACKAGES += \
+    DgCorner \
+    DgCorner1 \
+    DgCorner20 \
+    QSClockAnci1 \
+    QSClockAnci2 \
+    QSClockAnci3 \
+    QSClockAnci4 \
+    QSClockAnci5 \
+    QSClockAnci6 \
+    QSClockDefault \
+    SbHeight35 \
+    SbHeight50 \
+    SbHeightDefault
