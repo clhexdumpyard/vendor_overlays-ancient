@@ -60,3 +60,12 @@ PRODUCT_PACKAGES += \
     IconPackTocilAndroid \
     IconPackTolAndroid \
     IconPackVernLines
+
+# Analog clock
+PRODUCT_PACKAGES += \
+    AnalogAnci1 \
+    AnalogAnci2 \
+    AnalogAnci3 \
+    AnalogAnci4 \
+    AnalogAnci5 \
+    AnalogDefault
