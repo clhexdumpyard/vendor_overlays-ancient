@@ -47,3 +47,16 @@ PRODUCT_PACKAGES += \
     NavbarAnci3 \
     NavbarAnci4 \
     NavbarAnci5
+
+# Statusbar icon
+PRODUCT_PACKAGES += \
+    IconPackElectroAndroid \
+    IconPackJunuAndroid \
+    IconPackKepingAndroid \
+    IconPackKunilAndroid \
+    IconPackLeaf \
+    IconPackPenAndroid \
+    IconPackTilAndroid \
+    IconPackTocilAndroid \
+    IconPackTolAndroid \
+    IconPackVernLines
