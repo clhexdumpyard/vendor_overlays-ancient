@@ -40,7 +40,8 @@ PRODUCT_PACKAGES += \
     QSClockDefault \
     SbHeight35 \
     SbHeight50 \
-    SbHeightDefault
+    SbHeightDefault \
+    SwitchSquare
 
 # Overlay prebuilt
 PRODUCT_PACKAGES += \
