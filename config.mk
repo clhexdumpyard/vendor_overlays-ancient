@@ -69,3 +69,16 @@ PRODUCT_PACKAGES += \
     AnalogAnci4 \
     AnalogAnci5 \
     AnalogDefault
+
+# QS tile styles
+PRODUCT_PACKAGES += \
+    QStileAnci1 \
+    QStileAnci2 \
+    QStileAnci3 \
+    QStileAnci4 \
+    QStileAnci5 \
+    QStileAnci6 \
+    QStileAnci7 \
+    QStileAnci8 \
+    QStileAnci9 \
+    QStileAnci10
