@@ -86,3 +86,12 @@ PRODUCT_PACKAGES += \
     QStileAnci8 \
     QStileAnci9 \
     QStileAnci10
+
+# Settings style
+PRODUCT_PACKAGES += \
+    SettingsAnci1 \
+    SettingsAnci2 \
+    SettingsAnci3 \
+    SettingsAnci4 \
+    SettingsAnci5 \
+    SettingsDefault
