@@ -37,6 +37,9 @@ PRODUCT_PACKAGES += \
     QSClockAnci7 \
     QSClockAnci8 \
     QSClockAnci9 \
+    QSClockAnci10 \
+    QSClockAnci11 \
+    QSClockAnci12 \
     QSClockDefault \
     SbHeight35 \
     SbHeight50 \
