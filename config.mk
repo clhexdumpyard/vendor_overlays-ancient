@@ -40,6 +40,9 @@ PRODUCT_PACKAGES += \
     QSClockAnci10 \
     QSClockAnci11 \
     QSClockAnci12 \
+    QSClockAnci13 \
+    QSClockAnci14 \
+    QSClockAnci15 \
     QSClockDefault \
     SbHeight35 \
     SbHeight50 \
@@ -98,3 +101,24 @@ PRODUCT_PACKAGES += \
     SettingsAnci4 \
     SettingsAnci5 \
     SettingsDefault
+
+# Tooltip and topad
+PRODUCT_PACKAGES += \
+    TooltipDefault \
+    TooltipLarge \
+    TooltipMedium \
+    TopadDefault \
+    TopadLarge \
+    TopadMedium
+
+# Brightness and QSbg
+PRODUCT_PACKAGES += \
+    Bright1 \
+    Bright2 \
+    Bright3 \
+    Bright4 \
+    Bright5 \
+    BrightDefault \
+    Qsbg1 \
+    Qsbg2 \
+    QsbgDefault
