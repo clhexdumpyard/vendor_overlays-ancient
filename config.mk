@@ -63,6 +63,7 @@ PRODUCT_PACKAGES += \
 
 # Statusbar icon
 PRODUCT_PACKAGES += \
+    IconPackDefaultAndroid \
     IconPackElectroAndroid \
     IconPackJunuAndroid \
     IconPackKepingAndroid \
