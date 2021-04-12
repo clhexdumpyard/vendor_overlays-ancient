@@ -23,6 +23,12 @@ PRODUCT_PACKAGES += \
     FontSlateProOverlay \
     FontZillaSlabOverlay
 
+# Shape
+PRODUCT_PACKAGES += \
+    IconShapeDefault \
+    IconShapeHeart \
+    IconShapeSquare
+
 # Overlay app
 PRODUCT_PACKAGES += \
     DgCorner \
