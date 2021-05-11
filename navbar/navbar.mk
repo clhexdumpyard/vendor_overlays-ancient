@@ -15,3 +15,8 @@
 #    NavbarNexusOverlay \
 #    NavbarOldOverlay \
 #    NavbarSammyOverlay
+
+# Custom Overlays
+PRODUCT_PACKAGES += \
+    GesturalNavigationOverlayLong \
+    GesturalNavigationOverlayMedium
