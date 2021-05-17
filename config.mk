@@ -132,3 +132,13 @@ PRODUCT_PACKAGES += \
     Qsbg1 \
     Qsbg2 \
     QsbgDefault
+
+# Tiles and settings
+PRODUCT_PACKAGES += \
+    IconSettingDefault \
+    IconSettingStyle1 \
+    IconSettingStyle2 \
+    TileColumn4 \
+    TileColumn5 \
+    TileColumn7 \
+    TileColumnDefault
