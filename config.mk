@@ -142,3 +142,12 @@ PRODUCT_PACKAGES += \
     TileColumn5 \
     TileColumn7 \
     TileColumnDefault
+
+# Icon Data
+PRODUCT_PACKAGES += \
+    IconDataDefault \
+    IconDataFive \
+    IconDataFour \
+    IconDataOne \
+    IconDataThree \
+    IconDataTwo
