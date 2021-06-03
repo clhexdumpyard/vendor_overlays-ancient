@@ -151,3 +151,9 @@ PRODUCT_PACKAGES += \
     IconDataOne \
     IconDataThree \
     IconDataTwo
+
+# Notif
+PRODUCT_PACKAGES += \
+    NotipAccent \
+    NotipDefault \
+    NotipWall
