@@ -136,8 +136,10 @@ PRODUCT_PACKAGES += \
 # Tiles and settings
 PRODUCT_PACKAGES += \
     IconSettingDefault \
+    IconSettingStyle0 \
     IconSettingStyle1 \
     IconSettingStyle2 \
+    IconSettingStyle3 \
     TileColumn4 \
     TileColumn5 \
     TileColumn7 \
