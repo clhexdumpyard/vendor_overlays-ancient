@@ -6,8 +6,6 @@
 
     <!-- Ancient Top Settings Cardview -->
     <color name="ancient_top_settings_color_bg">#FF151618</color>
-    <color name="ancient_top_cardview">#40000000</color>
-    <color name="ancient_cardview">#40000000</color>
 
 </resources>
 
