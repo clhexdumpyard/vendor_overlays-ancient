@@ -34,25 +34,6 @@ PRODUCT_PACKAGES += \
     DgCorner \
     DgCorner1 \
     DgCorner20 \
-    QSClockAnci1 \
-    QSClockAnci2 \
-    QSClockAnci3 \
-    QSClockAnci4 \
-    QSClockAnci5 \
-    QSClockAnci6 \
-    QSClockAnci7 \
-    QSClockAnci8 \
-    QSClockAnci9 \
-    QSClockAnci10 \
-    QSClockAnci11 \
-    QSClockAnci12 \
-    QSClockAnci13 \
-    QSClockAnci14 \
-    QSClockAnci15 \
-    QSClockAnci16 \
-    QSClockAnci17 \
-    QSClockAnci18 \
-    QSClockDefault \
     SbHeight35 \
     SbHeight50 \
     SbHeightDefault \
