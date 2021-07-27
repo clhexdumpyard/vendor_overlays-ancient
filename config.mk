@@ -60,7 +60,8 @@ PRODUCT_PACKAGES += \
     IconPackTilAndroid \
     IconPackTocilAndroid \
     IconPackTolAndroid \
-    IconPackVernLines
+    IconPackVernLines \
+    IconNiceBarAndroid
 
 # Analog clock
 PRODUCT_PACKAGES += \
