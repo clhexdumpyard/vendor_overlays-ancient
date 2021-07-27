@@ -102,16 +102,9 @@ PRODUCT_PACKAGES += \
     TopadLarge \
     TopadMedium
 
-# Brightness and QSbg
+# QSbg
 PRODUCT_PACKAGES += \
-    Bright1 \
-    Bright2 \
-    Bright3 \
-    Bright4 \
-    Bright5 \
-    BrightDefault \
     Qsbg1 \
-    Qsbg2 \
     QsbgDefault
 
 # Tiles and settings
