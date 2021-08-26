@@ -36,6 +36,7 @@ PRODUCT_PACKAGES += \
     DgCorner20 \
     SbHeight35 \
     SbHeight50 \
+    SbHeight80 \
     SbHeightDefault \
     SwitchSquare
 
@@ -61,7 +62,8 @@ PRODUCT_PACKAGES += \
     IconPackTocilAndroid \
     IconPackTolAndroid \
     IconPackVernLines \
-    IconNiceBarAndroid
+    IconNiceBarAndroid \
+    IconIos2Android
 
 # Analog clock
 PRODUCT_PACKAGES += \
@@ -134,3 +136,25 @@ PRODUCT_PACKAGES += \
     NotipAccent \
     NotipDefault \
     NotipWall
+    
+# Notif Icon
+PRODUCT_PACKAGES += \
+    NotifDefault \
+    Notif5 \
+    Notif6 \
+    Notif7 \
+    Notif8
+    
+# Notif
+PRODUCT_PACKAGES += \
+    ExpanIconDef \
+    ExpanIconBg \
+    ExpanIconBg2
+    
+# Inbuilt Switch
+PRODUCT_PACKAGES += \
+    AndroidSText \
+    AndroidSText1 \
+    IOS \
+    Saklar \
+    Thumb
