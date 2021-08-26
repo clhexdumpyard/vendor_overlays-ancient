@@ -156,5 +156,6 @@ PRODUCT_PACKAGES += \
     AndroidSText \
     AndroidSText1 \
     IOS \
+    Button\
     Saklar \
     Thumb
