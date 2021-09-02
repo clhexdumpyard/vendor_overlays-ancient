@@ -108,6 +108,9 @@ PRODUCT_PACKAGES += \
 # QSbg
 PRODUCT_PACKAGES += \
     Qsbg1 \
+    Qsbg2 \
+    Qsbg3 \
+    Qsbg4 \
     QsbgDefault
 
 # Tiles and settings
