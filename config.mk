@@ -37,6 +37,7 @@ PRODUCT_PACKAGES += \
     SbHeight35 \
     SbHeight50 \
     SbHeight80 \
+    SbHeight999 \
     SbHeightDefault \
     SwitchSquare
 
