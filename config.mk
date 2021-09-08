@@ -150,3 +150,8 @@ PRODUCT_PACKAGES += \
     Button\
     Saklar \
     Thumb
+
+# Wipi
+PRODUCT_PACKAGES += \
+    WipiKiri \
+    WipiKanan 
