@@ -126,7 +126,9 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     NotipAccent \
     NotipDefault \
-    NotipWall
+    NotipWall \
+    NotipBlack \
+    NotipWhite
     
 # Notif Icon
 PRODUCT_PACKAGES += \
