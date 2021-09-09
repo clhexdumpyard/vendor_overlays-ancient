@@ -10,19 +10,6 @@ include vendor/overlays/navbar/navbar.mk
 # Include switch files
 include vendor/overlays/switch/switch.mk
 
-# fonts
-PRODUCT_PACKAGES += \
-    FontAppleMintOverlay \
-    FontCartoonistHandOverlay \
-    FontChinacatOverlay \
-    FontLatoOverlay \
-    FontRobotoOrigOverlay \
-    FontRosemaryOverlay \
-    FontRubikOverlay \
-    FontSanFransiscoOverlay \
-    FontSlateProOverlay \
-    FontZillaSlabOverlay
-
 # Shape
 PRODUCT_PACKAGES += \
     IconShapeDefault \
