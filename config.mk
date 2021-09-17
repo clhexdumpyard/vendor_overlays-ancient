@@ -108,6 +108,8 @@ PRODUCT_PACKAGES += \
     IconSettingStyle1 \
     IconSettingStyle2 \
     IconSettingStyle3 \
+    IconSettingStyle4 \
+    IconSettingStyle5 \
     TileColumn4 \
     TileColumn5 \
     TileColumn7 \
