@@ -75,15 +75,6 @@ PRODUCT_PACKAGES += \
     AnalogAnci5 \
     AnalogDefault
 
-# Settings style
-PRODUCT_PACKAGES += \
-    SettingsAnci1 \
-    SettingsAnci2 \
-    SettingsAnci3 \
-    SettingsAnci4 \
-    SettingsAnci5 \
-    SettingsDefault
-
 # Tooltip and topad
 PRODUCT_PACKAGES += \
     TooltipDefault \
