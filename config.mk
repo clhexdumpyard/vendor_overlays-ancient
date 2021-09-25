@@ -36,6 +36,8 @@ PRODUCT_PACKAGES += \
     DgCorner20 \
     SbHeight35 \
     SbHeight50 \
+    SbHeight80 \
+    SbHeight999 \
     SbHeightDefault \
     SwitchSquare
 
@@ -61,7 +63,8 @@ PRODUCT_PACKAGES += \
     IconPackTocilAndroid \
     IconPackTolAndroid \
     IconPackVernLines \
-    IconNiceBarAndroid
+    IconNiceBarAndroid \
+    IconIos2Android
 
 # Analog clock
 PRODUCT_PACKAGES += \
@@ -71,28 +74,6 @@ PRODUCT_PACKAGES += \
     AnalogAnci4 \
     AnalogAnci5 \
     AnalogDefault
-
-# QS tile styles
-PRODUCT_PACKAGES += \
-    QStileAnci1 \
-    QStileAnci2 \
-    QStileAnci3 \
-    QStileAnci4 \
-    QStileAnci5 \
-    QStileAnci6 \
-    QStileAnci7 \
-    QStileAnci8 \
-    QStileAnci9 \
-    QStileAnci10
-
-# Settings style
-PRODUCT_PACKAGES += \
-    SettingsAnci1 \
-    SettingsAnci2 \
-    SettingsAnci3 \
-    SettingsAnci4 \
-    SettingsAnci5 \
-    SettingsDefault
 
 # Tooltip and topad
 PRODUCT_PACKAGES += \
@@ -106,6 +87,11 @@ PRODUCT_PACKAGES += \
 # QSbg
 PRODUCT_PACKAGES += \
     Qsbg1 \
+    Qsbg2 \
+    Qsbg3 \
+    Qsbg4 \
+    Qsbg5 \
+    Qsbg6 \
     QsbgDefault
 
 # Tiles and settings
@@ -115,6 +101,8 @@ PRODUCT_PACKAGES += \
     IconSettingStyle1 \
     IconSettingStyle2 \
     IconSettingStyle3 \
+    IconSettingStyle4 \
+    IconSettingStyle5 \
     TileColumn4 \
     TileColumn5 \
     TileColumn7 \
@@ -133,4 +121,34 @@ PRODUCT_PACKAGES += \
 PRODUCT_PACKAGES += \
     NotipAccent \
     NotipDefault \
-    NotipWall
+    NotipWall \
+    NotipBlack \
+    NotipWhite
+    
+# Notif Icon
+PRODUCT_PACKAGES += \
+    NotifDefault \
+    Notif5 \
+    Notif6 \
+    Notif7 \
+    Notif8
+    
+# Notif
+PRODUCT_PACKAGES += \
+    ExpanIconDef \
+    ExpanIconBg \
+    ExpanIconBg2
+    
+# Inbuilt Switch
+PRODUCT_PACKAGES += \
+    AndroidSText \
+    AndroidSText1 \
+    IOS \
+    Button\
+    Saklar \
+    Thumb
+
+# Wipi
+PRODUCT_PACKAGES += \
+    WipiKiri \
+    WipiKanan 
