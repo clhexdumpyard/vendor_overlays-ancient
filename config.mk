@@ -139,3 +139,29 @@ include vendor/overlays/switch/switch.mk
 #PRODUCT_PACKAGES += \
 #    WipiKiri \
 #    WipiKanan 
+
+# RRO
+PRODUCT_PACKAGES += \
+    IconDataOne \
+    SbHeightOverlay35 \
+    SbHeightOverlay80 \
+    SbHeightOverlayVerryBig \
+    SbIconOverlay1 \
+    SbIconOverlay4 \
+    SbIconOverlay7 \
+    IconDataFive \
+    IconDataThree \
+    SbHeightOverlay50 \
+    SbHeightOverlayBig \
+    SbIconOverlay10 \
+    SbIconOverlay2 \
+    SbIconOverlay5 \
+    SbIconOverlay8 \
+    IconDataFour \
+    IconDataTwo \
+    SbHeightOverlay60 \
+    SbHeightOverlayMedium \
+    SbIconOverlay11 \
+    SbIconOverlay3 \
+    SbIconOverlay6 \
+    SbIconOverlay9
