@@ -18,5 +18,6 @@
 
 # Custom Overlays
 PRODUCT_PACKAGES += \
+    GesturalNavigationOverlayHidden \
     GesturalNavigationOverlayLong \
     GesturalNavigationOverlayMedium
