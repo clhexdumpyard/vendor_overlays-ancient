@@ -20,4 +20,7 @@
 PRODUCT_PACKAGES += \
     GesturalNavigationOverlayHidden \
     GesturalNavigationOverlayLong \
-    GesturalNavigationOverlayMedium
+    GesturalNavigationOverlayMedium \
+    GesturalNavigationRadiusLow \
+    GesturalNavigationRadiusVeryLow \
+    GesturalNavigationRadiusHidden
