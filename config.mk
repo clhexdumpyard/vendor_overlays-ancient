@@ -165,3 +165,7 @@ PRODUCT_PACKAGES += \
     SbIconOverlay3 \
     SbIconOverlay6 \
     SbIconOverlay9
+
+# Custom Overlays
+PRODUCT_PACKAGES += \
+    CustomPixelLauncherOverlay
