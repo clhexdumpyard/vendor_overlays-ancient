@@ -164,7 +164,12 @@ PRODUCT_PACKAGES += \
     SbIconOverlay11 \
     SbIconOverlay3 \
     SbIconOverlay6 \
-    SbIconOverlay9
+    SbIconOverlay9 \
+    SbIconOverlay12 \
+    SbIconOverlay13 \
+    SbIconOverlay14 \
+    SbIconOverlay15 \
+    SbIconOverlay16
 
 # Custom Overlays
 PRODUCT_PACKAGES += \
