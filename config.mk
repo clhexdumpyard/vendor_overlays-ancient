@@ -29,13 +29,12 @@ include vendor/overlays/switch/switch.mk
 #    SwitchSquare
 
 # Overlay prebuilt
-#PRODUCT_PACKAGES += \
-#    NavbarDefault \
-#    NavbarAnci1 \
-#    NavbarAnci2 \
-#    NavbarAnci3 \
-#    NavbarAnci4 \
-#    NavbarAnci5
+PRODUCT_PACKAGES += \
+    NavbarAnci1 \
+    NavbarAnci2 \
+    NavbarAnci3 \
+    NavbarAnci4 \
+    NavbarAnci5
 
 # Statusbar icon
 #PRODUCT_PACKAGES += \
