@@ -36,6 +36,28 @@ PRODUCT_PACKAGES += \
     NavbarAnci4 \
     NavbarAnci5
 
+# Bright
+PRODUCT_PACKAGES += \
+    BrightOne \
+    BrightTwo \
+    BrightThree \
+    BrightFour \
+    BrightFive
+
+# Volume
+PRODUCT_PACKAGES += \
+    VolOne \
+    VolTwo \
+    VolThree \
+    VolFour \
+    VolFive
+
+# Home
+PRODUCT_PACKAGES += \
+    homepageAndroidOberlay \
+    homepageOberlay \
+    homepageSettingsOberlay
+
 # Statusbar icon
 #PRODUCT_PACKAGES += \
 #    IconPackDefaultAndroid \
