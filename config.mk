@@ -58,6 +58,12 @@ PRODUCT_PACKAGES += \
     homepageOberlay \
     homepageSettingsOberlay
 
+# Corner
+PRODUCT_PACKAGES += \
+    CornerBig \
+    CornerMedium \
+    CornerZero
+
 # Statusbar icon
 #PRODUCT_PACKAGES += \
 #    IconPackDefaultAndroid \
@@ -190,7 +196,8 @@ PRODUCT_PACKAGES += \
     SbIconOverlay13 \
     SbIconOverlay14 \
     SbIconOverlay15 \
-    SbIconOverlay16
+    SbIconOverlay16 \
+    SbIconOverlay17
 
 # Custom Overlays
 PRODUCT_PACKAGES += \
