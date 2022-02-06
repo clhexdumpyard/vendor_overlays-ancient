@@ -1,5 +1,6 @@
 # Themes styles
 PRODUCT_PACKAGES += \
+    AndroidBlackThemeOverlay \
     AncientClearSystemOverlay \
     AncientClearSystemUIOverlay \
     PitchBlackSystemOverlay \
